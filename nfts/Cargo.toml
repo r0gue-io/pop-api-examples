@@ -1,7 +1,7 @@
 [package]
 name = "nfts"
 version = "0.1.0"
-authors = ["[Bruno Galvao] <[bruno@r0gue.io]>"]
+authors = ["Bruno Galvao <bruno@r0gue.io>"]
 edition = "2021"
 
 [dependencies]
